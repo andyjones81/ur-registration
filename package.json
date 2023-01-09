@@ -24,7 +24,7 @@
     "marked": "^0.7.0",
     "morgan": "^1.9.1",
     "mssql": "^5.1.0",
-    "notifications-node-client": "^4.6.0",
+    "notifications-node-client": "^6.0.0",
     "nunjucks": "^3.2.0",
     "nunjucks-date-filter": "^0.1.1",
     "nunjucks-markdown": "^2.0.1",
